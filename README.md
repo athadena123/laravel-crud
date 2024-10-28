@@ -12,12 +12,13 @@ Aplisasi ini bertujuan untuk menciptakan lingkungan belajar yang lebih kondusif 
 - Notifikasi Status: Siswa mendapatkan notifikasi ketika pengaduan mereka telah direspon atau diproses lebih lanjut.
 - Pengaturan Profil: Siswa dan admin dapat mengubah informasi profil masing-masing.
 
-Proses Cloning dan Instalasi
+### Proses Cloning dan Instalasi
 Clone Repository
 Untuk meng-clone repository ini, buka terminal dan jalankan perintah berikut:
 
+''' bash
 git clone https://github.com/username/pengaduanSiswa.git
-
+'''
 Clone Repository
 Setelah proses cloning selesai, ubah nama folder menjadi pengaduanSiswa1:
 mv pengaduanSiswa pengaduanSiswa1
